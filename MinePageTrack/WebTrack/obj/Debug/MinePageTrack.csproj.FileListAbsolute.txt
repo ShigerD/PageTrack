@@ -1,0 +1,9 @@
+F:\VS2015PRO\Csharp\MinePageTrack\MinePageTrack\MinePageTrack\WebTrack\obj\Debug\MinePageTrack.csprojResolveAssemblyReference.cache
+F:\VS2015PRO\Csharp\MinePageTrack\MinePageTrack\MinePageTrack\WebTrack\obj\Debug\WebTrack.PageTrack.resources
+F:\VS2015PRO\Csharp\MinePageTrack\MinePageTrack\MinePageTrack\WebTrack\obj\Debug\MinePageTrack.csproj.GenerateResource.Cache
+F:\VS2015PRO\Csharp\MinePageTrack\MinePageTrack\MinePageTrack\WebTrack\bin\Debug\MinePageTrack.exe.config
+F:\VS2015PRO\Csharp\MinePageTrack\MinePageTrack\MinePageTrack\WebTrack\bin\Debug\MinePageTrack.exe
+F:\VS2015PRO\Csharp\MinePageTrack\MinePageTrack\MinePageTrack\WebTrack\bin\Debug\MinePageTrack.pdb
+F:\VS2015PRO\Csharp\MinePageTrack\MinePageTrack\MinePageTrack\WebTrack\obj\Debug\MinePageTrack.Properties.Resources.resources
+F:\VS2015PRO\Csharp\MinePageTrack\MinePageTrack\MinePageTrack\WebTrack\obj\Debug\MinePageTrack.exe
+F:\VS2015PRO\Csharp\MinePageTrack\MinePageTrack\MinePageTrack\WebTrack\obj\Debug\MinePageTrack.pdb
